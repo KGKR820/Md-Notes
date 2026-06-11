@@ -29,4 +29,4 @@ int knapsack(vector<int> &wt, vector<int> &val, int capacity) {
 > Time Complexity :
 > Space Complexity :
 
-![[01 Knapsack.svg]]
+![Knapsack Diagram](../Images/01_Knapsack.svg)

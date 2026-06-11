@@ -27,4 +27,4 @@ int robot(vector<vector<int>> &Mat) {
 > Time Complexity :
 > Space Complexity :
 
-![[Robot coin.png]]
+![[Robot_coin.png]]

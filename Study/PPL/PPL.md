@@ -248,3 +248,7 @@ class Fish implements Swimmer {
 ## Exception Handling
 
 - **Exception** :  Any unusual event, erroneous or not,that is detectable by either hardware or software and that may require special processing.
+## Reflection
+
+A program can inspect and use its own classes,methods, and objects during runtime.
+

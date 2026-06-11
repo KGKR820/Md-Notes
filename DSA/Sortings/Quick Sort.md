@@ -14,7 +14,7 @@ int pivot(vector<int> &arr,int left,int right){
 	int pvt = arr[right];
 	int j = left-1;
 	for(int i=left;i<right;i++){
-		if(arr[j] < pvt){
+		if(arr[i] < pvt){
 			j++;
 			swap(arr[i],arr[j]);
 		}
